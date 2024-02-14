@@ -1,0 +1,6 @@
+express
+nodemon
+ npm i -g nodemon
+바벨
+npm i @babel/cli @babel/core @babel/node @babel/preset-env
+클라우드타입 회원가입(깃허브 계정)
